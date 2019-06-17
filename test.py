@@ -22,7 +22,7 @@ def print_string(str):
     """
     print(str)
 
-def hello_world_modif2():
+def hello_world_modif3():
     """
         Fonction qui imprime un truc.
 
